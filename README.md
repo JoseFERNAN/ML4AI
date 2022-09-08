@@ -6,6 +6,9 @@ Machine Learning for AI - 2022 Course - Chung Ang university
 
 [Seung-uk](https://www.github.com/SeungukJeong)
 
+[Hyun-Kwon](https://www.github.com/HigurashiKagome)
+
+
 
 
 
