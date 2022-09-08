@@ -8,6 +8,8 @@ Machine Learning for AI - 2022 Course - Chung Ang university
 
 [Hyun-Kwon](https://www.github.com/HigurashiKagome)
 
+[Jose](https://www.github.com/JoseFERNAN)
+
 
 
 
