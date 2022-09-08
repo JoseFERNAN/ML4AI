@@ -2,4 +2,4 @@
 
 Machine Learning for AI - 2022 Course - Chung Ang university
 
-[Seong-Min](https://www.github.com/csnsun)
+[Seong-Min](https://www.github.com/csnsum)
